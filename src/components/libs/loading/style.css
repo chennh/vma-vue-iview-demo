@@ -1,0 +1,4 @@
+.demo-spin-icon-load {
+  font-size: rem(50px) !important;
+  animation: ani-demo-spin 1s linear infinite;
+}
